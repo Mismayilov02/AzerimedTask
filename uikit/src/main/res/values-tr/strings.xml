@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="home_title">Ana Sayfa</string>
+    <string name="settings_title">Ayarlar</string>
+    <string name="update_title">Güncelle</string>
+    <string name="create_title">Oluştur</string>
+    <string name="search">Ara</string>
+    <string name="name">Ad</string>
+    <string name="amount">Miktar</string>
+    <string name="note">Not</string>
+    <string name="select">Seç</string>
+    <string name="save">Kaydet</string>
+    <string name="category">Kategori</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="are_you_sure">Emin misiniz?</string>
+    <string name="error_message">Beklenmeyen hata oluştu</string>
+    <string name="retry">Yeniden Dene</string>
+    <string name="cancel">İptal</string>
+    <string name="back">Geri</string>
+    <string name="item_deleted">Öğe silindi</string>
+    <string name="item_updated">Öğe güncellendi</string>
+    <string name="item_created">Öğe oluşturuldu</string>
+    <string name="item_not_created">Öğe oluşturulamadı</string>
+    <string name="item_not_updated">Öğe güncellenemedi</string>
+    <string name="item_not_deleted">Öğe silinemedi</string>
+    <string name="item_not_found">Öğe bulunamadı</string>
+    <string name="please_wait">Lütfen bekleyin...</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="please_fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="name_txt">Ad: </string>
+    <string name="date_txt">Tarih: </string>
+    <string name="amount_txt">Miktar: </string>
+    <string name="note_txt">Not: </string>
+    <string name="edit_item">Öğeyi Düzenle</string>
+    <string name="delete_item">Öğeyi Sil</string>
+    <string name="update_item">Öğeyi Güncelle</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="language">Dil</string>
+    <string name="azerbaijan">Azerbaycan</string>
+    <string name="english">İngilizce</string>
+    <string name="select_language">Dili Seç</string>
+
+
+    <array name="languages">
+        <item>İngilizce</item>
+        <item>Azerbaycan</item>
+        <item>Türkçe</item>
+        <item>Rusça</item>
+        <item>Almanca</item>
+        <item>Fransızca</item>
+    </array>
+
+
+</resources>

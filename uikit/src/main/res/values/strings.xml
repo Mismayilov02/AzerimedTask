@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AzerimedTask</string>
+    <string name="home_title">Home</string>
+    <string name="settings_title">Settings</string>
+    <string name="update_title">Update</string>
+    <string name="create_title">Create</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="select">Select</string>
+    <string name="save">Save</string>
+    <string name="category">Category</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="error_message">Unexpected error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="item_updated">Item updated</string>
+    <string name="item_created">Item created</string>
+    <string name="item_not_created">Item not created</string>
+    <string name="item_not_updated">Item not updated</string>
+    <string name="item_not_deleted">Item not deleted</string>
+    <string name="item_not_found">Item not found</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="loading">Loading...</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="name_txt">Name: </string>
+    <string name="date_txt">Date: </string>
+    <string name="amount_txt">Amount: </string>
+    <string name="note_txt">Note: </string>
+    <string name="edit_item">Edit item</string>
+    <string name="delete_item">Delete item</string>
+    <string name="update_item">Update item</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="azerbaijan">Azerbaijan</string>
+    <string name="english">English</string>
+    <string name="select_language">Select Language</string>
+
+
+    <array name="languages">
+        <item>English</item>
+        <item>Azerbaijani</item>
+        <item>Turkish</item>
+        <item>Russian</item>
+        <item>German</item>
+        <item>French</item>
+    </array>
+
+    <array name="languages_code">
+        <item>en</item>
+        <item>az</item>
+        <item>tr</item>
+        <item>ru</item>
+        <item>de</item>
+        <item>fr</item>
+    </array>
+</resources>

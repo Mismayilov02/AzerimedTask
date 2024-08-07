@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="home_title">Ana Səhifə</string>
+    <string name="settings_title">Tənzimləmələr</string>
+    <string name="update_title">Yeniləmə</string>
+    <string name="create_title">Yarat</string>
+    <string name="search">Axtar</string>
+    <string name="name">Ad</string>
+    <string name="amount">Məbləğ</string>
+    <string name="note">Qeyd</string>
+    <string name="select">Seç</string>
+    <string name="save">Saxla</string>
+    <string name="category">Kateqoriya</string>
+    <string name="yes">Bəli</string>
+    <string name="no">Xeyr</string>
+    <string name="are_you_sure">Əminsinizmi?</string>
+    <string name="error_message">Gözlənilməz səhv baş verdi</string>
+    <string name="retry">Təkrar et</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="back">Geri</string>
+    <string name="item_deleted">Element silindi</string>
+    <string name="item_updated">Element yeniləndi</string>
+    <string name="item_created">Element yaradıldı</string>
+    <string name="item_not_created">Element yaradılmadı</string>
+    <string name="item_not_updated">Element yenilənmədi</string>
+    <string name="item_not_deleted">Element silinmədi</string>
+    <string name="item_not_found">Element tapılmadı</string>
+    <string name="please_wait">Zəhmət olmasa, gözləyin...</string>
+    <string name="loading">Yüklənir...</string>
+    <string name="please_fill_all_fields">Zəhmət olmasa, bütün sahələri doldurun</string>
+    <string name="name_txt">Ad: </string>
+    <string name="date_txt">Tarix: </string>
+    <string name="amount_txt">Məbləğ: </string>
+    <string name="note_txt">Qeyd: </string>
+    <string name="edit_item">Elementi redaktə et</string>
+    <string name="delete_item">Elementi sil</string>
+    <string name="update_item">Elementi yenilə</string>
+    <string name="dark_mode">Qaranlıq rejim</string>
+    <string name="language">Dil</string>
+    <string name="azerbaijan">Azərbaycan</string>
+    <string name="english">İngilis</string>
+    <string name="select_language">Dili seçin</string>
+
+    <array name="languages">
+        <item>İngilis dili</item>
+        <item>Azərbaycanca</item>
+        <item>Türkcə</item>
+        <item>Rus dili</item>
+        <item>Almanca</item>
+        <item>Fransız</item>
+    </array>
+
+
+</resources>

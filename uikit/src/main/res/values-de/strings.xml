@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="home_title">Startseite</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="update_title">Aktualisieren</string>
+    <string name="create_title">Erstellen</string>
+    <string name="search">Suche</string>
+    <string name="name">Name</string>
+    <string name="amount">Betrag</string>
+    <string name="note">Notiz</string>
+    <string name="select">Auswählen</string>
+    <string name="save">Speichern</string>
+    <string name="category">Kategorie</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="are_you_sure">Sind Sie sicher?</string>
+    <string name="error_message">Ein unerwarteter Fehler ist aufgetreten</string>
+    <string name="retry">Wiederholen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="back">Zurück</string>
+    <string name="item_deleted">Element gelöscht</string>
+    <string name="item_updated">Element aktualisiert</string>
+    <string name="item_created">Element erstellt</string>
+    <string name="item_not_created">Element nicht erstellt</string>
+    <string name="item_not_updated">Element nicht aktualisiert</string>
+    <string name="item_not_deleted">Element nicht gelöscht</string>
+    <string name="item_not_found">Element nicht gefunden</string>
+    <string name="please_wait">Bitte warten...</string>
+    <string name="loading">Lädt...</string>
+    <string name="please_fill_all_fields">Bitte füllen Sie alle Felder aus</string>
+    <string name="name_txt">Name: </string>
+    <string name="date_txt">Datum: </string>
+    <string name="amount_txt">Betrag: </string>
+    <string name="note_txt">Notiz: </string>
+    <string name="edit_item">Element bearbeiten</string>
+    <string name="delete_item">Element löschen</string>
+    <string name="update_item">Element aktualisieren</string>
+    <string name="dark_mode">Dunkler Modus</string>
+    <string name="language">Sprache</string>
+    <string name="azerbaijan">Aserbaidschanisch</string>
+    <string name="english">Englisch</string>
+    <string name="select_language">Sprache auswählen</string>
+
+    <array name="languages">
+        <item>Englisch</item>
+        <item>Aserbaidschanisch</item>
+        <item>Türkisch</item>
+        <item>Russisch</item>
+        <item>Deutsch</item>
+        <item>Französisch</item>
+    </array>
+
+</resources>

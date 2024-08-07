@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="home_title">Главная</string>
+    <string name="settings_title">Настройки</string>
+    <string name="update_title">Обновить</string>
+    <string name="create_title">Создать</string>
+    <string name="search">Поиск</string>
+    <string name="name">Имя</string>
+    <string name="amount">Количество</string>
+    <string name="note">Примечание</string>
+    <string name="select">Выбрать</string>
+    <string name="save">Сохранить</string>
+    <string name="category">Категория</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="error_message">Произошла непредвиденная ошибка</string>
+    <string name="retry">Повторить</string>
+    <string name="cancel">Отмена</string>
+    <string name="back">Назад</string>
+    <string name="item_deleted">Элемент удален</string>
+    <string name="item_updated">Элемент обновлен</string>
+    <string name="item_created">Элемент создан</string>
+    <string name="item_not_created">Элемент не создан</string>
+    <string name="item_not_updated">Элемент не обновлен</string>
+    <string name="item_not_deleted">Элемент не удален</string>
+    <string name="item_not_found">Элемент не найден</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="loading">Загрузка...</string>
+    <string name="please_fill_all_fields">Пожалуйста, заполните все поля</string>
+    <string name="name_txt">Имя: </string>
+    <string name="date_txt">Дата: </string>
+    <string name="amount_txt">Количество: </string>
+    <string name="note_txt">Примечание: </string>
+    <string name="edit_item">Редактировать элемент</string>
+    <string name="delete_item">Удалить элемент</string>
+    <string name="update_item">Обновить элемент</string>
+    <string name="dark_mode">Темный режим</string>
+    <string name="language">Язык</string>
+    <string name="azerbaijan">Азербайджанский</string>
+    <string name="english">Английский</string>
+    <string name="select_language">Выбрать язык</string>
+
+    <array name="languages">
+        <item>Английский</item>
+        <item>Азербайджанский</item>
+        <item>Турецкий</item>
+        <item>Русский</item>
+        <item>Немецкий</item>
+        <item>Французский</item>
+    </array>
+
+</resources>

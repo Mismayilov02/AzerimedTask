@@ -41,7 +41,7 @@ class CreateItemViewModel @Inject constructor(
     }
 
     private fun putItem(itemModel: ItemModel,isUpdate:Boolean) {
-        if (validateItemModel(itemModel)) {
+        if (!validateItemModel(itemModel)) {
             setEffect(CreateItemEffect.ShowToast(context.getString(com.mismayilov.uikit.R.string.please_fill_all_fields)))
             return
         }

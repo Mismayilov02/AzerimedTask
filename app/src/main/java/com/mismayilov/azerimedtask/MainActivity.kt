@@ -88,8 +88,6 @@ class MainActivity : AppCompatActivity() , NavigationManager {
 
     @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
-        Toast.makeText(this, navController?.currentDestination?.label, Toast.LENGTH_SHORT).show()
-        Log.d("TAGONBACK", "onBackPressed: ${navController?.currentDestination?.label}")
         if (navController?.currentDestination?.id == com.mismayilov.home.R.id.homeFragment) {
             finishAffinity()
             System.exit(0)

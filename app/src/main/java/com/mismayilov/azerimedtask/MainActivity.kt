@@ -2,7 +2,9 @@ package com.mismayilov.azerimedtask
 
 import android.content.res.Configuration
 import android.os.Bundle
+import android.util.Log
 import android.view.View
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
@@ -84,7 +86,10 @@ class MainActivity : AppCompatActivity() , NavigationManager {
     }
 
 
+    @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
+        Toast.makeText(this, navController?.currentDestination?.label, Toast.LENGTH_SHORT).show()
+        Log.d("TAGONBACK", "onBackPressed: ${navController?.currentDestination?.label}")
         if (navController?.currentDestination?.id == com.mismayilov.home.R.id.homeFragment) {
             finishAffinity()
             System.exit(0)

@@ -28,6 +28,7 @@ class SplashScreenFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        (activity as NavigationManager).bottomNavigationVisibility(false)
         view.postDelayed({
             (activity as? NavigationManager)?.navigateByNavigationName("home_navigation")
         }, 2200)

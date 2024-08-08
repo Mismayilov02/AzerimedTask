@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.app.ActivityCompat.finishAffinity
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
@@ -104,7 +105,8 @@ class HomeFragment :
                     negativeButtonText = getString(com.mismayilov.uikit.R.string.back),
                     positiveButton = {setEvent(HomeEvent.RefreshItems)},
                     negativeButton = {
-                        findNavController().popBackStack()
+                        finishAffinity(requireActivity())
+                        System.exit(0)
                     }
                 )
             }
